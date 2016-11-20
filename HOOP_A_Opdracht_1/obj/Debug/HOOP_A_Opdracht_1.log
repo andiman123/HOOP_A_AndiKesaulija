@@ -1,0 +1,18 @@
+﻿  main.cpp
+  ofApp.cpp
+  Bankrekening.cpp
+  Transactie.cpp
+     Creating library bin\HOOP_A_Opdracht_1_debug.lib and object bin\HOOP_A_Opdracht_1_debug.exp
+  HOOP_A_Opdracht_1.vcxproj -> D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\apps\HOOP-A\HOOP_A_AndiKesaulija\HOOP_A_Opdracht_1\bin\HOOP_A_Opdracht_1_debug.exe
+  HOOP_A_Opdracht_1.vcxproj -> bin\HOOP_A_Opdracht_1_debug.pdb (Full PDB)
+  
+  	                   9	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\
+  	    New File  		 2939392	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\assimp.dll
+  	    New File  		 1266176	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\fmodex.dll
+  	    New File  		 1312768	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\fmodexL.dll
+  	    New File  		 5647872	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\FreeImage.dll
+  	    New File  		  580608	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\freetype.dll
+  	    New File  		  237568	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\glut32.dll
+  	    New File  		 1178624	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\libeay32.dll
+  	    New File  		  269824	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\ssleay32.dll
+  	    New File  		   69632	D:\Dropbox\HKUJaar2\Hoop\of_v0.9.3_vs_release\export\vs\Win32\Zlib.dll
